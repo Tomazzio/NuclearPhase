@@ -550,7 +550,6 @@
 #include "code\game\gamemodes\game_mode_latespawn.dm"
 #include "code\game\gamemodes\objective.dm"
 #include "code\game\gamemodes\setupgame.dm"
-#include "code\game\gamemodes\calamity\calamity.dm"
 #include "code\game\gamemodes\changeling\absorbed_dna.dm"
 #include "code\game\gamemodes\changeling\changeling.dm"
 #include "code\game\gamemodes\changeling\changeling_powers.dm"
